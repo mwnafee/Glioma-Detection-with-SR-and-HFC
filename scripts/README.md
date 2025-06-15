@@ -1,7 +1,3 @@
-Here's your fully formatted and polished `README.md` as raw markdown content:
-
----
-
 ```markdown
 # Glioma-MDC 2025: High-Frequency and Super-Resolved Cell Classification Pipeline
 
