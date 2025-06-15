@@ -1,4 +1,4 @@
-```markdown
+
 # Glioma-MDC 2025: High-Frequency and Super-Resolved Cell Classification Pipeline
 
 This repository provides a full deep learning pipeline for extracting and classifying mitotic cells from whole-slide glioma images using:
@@ -13,7 +13,7 @@ This repository provides a full deep learning pipeline for extracting and classi
 
 ## 🗂️ Project Structure
 
-```
+
 
 .
 ├── cell\_image\_extractor.py        # Extracts cell images from JSON-annotated WSIs
